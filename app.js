@@ -72,7 +72,3 @@ app.post("/failure" , function(req, res) {
 app.listen(process.env.PORT || 3000, function() {
 	console.log("Server is running on port 3000");
 });
-
-// API Key b3f9efeb7d594b44ae3d28c048222d1c-us4
-
-// Mailchip list ID d04c7da647
