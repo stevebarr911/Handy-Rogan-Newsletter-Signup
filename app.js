@@ -44,7 +44,7 @@ app.post("/" , function(req, res){
 		url: "https://us4.api.mailchimp.com/3.0/lists/d04c7da647",
 		method: "POST",
 		headers: {
-			"Authorization": "sbarr@ezlinks.com 4b0ddf1f68b0724b31eb48a753b5f4e7-us4"
+			"Authorization": "sbarr@ezlinks.com Ask For API Key"
 		},
 		body: jsonData
 	};
